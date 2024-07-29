@@ -1,3 +1,6 @@
+https://readme-typing-svg.demolab.com/demo/?font=&center=true&lines=Frontend+Dev;React+Developer
+
+
 - 👋 Hi, I’m Kidus Asebe
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Computer science
