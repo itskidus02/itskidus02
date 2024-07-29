@@ -1,18 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;React+Developer)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m Kidus Asebe
-- 👀 I’m interested in Web development
+- 👋 Hello, I’m Kidus Asebe
 - 🌱 I’m currently learning Computer science
 - 📫 How to reach me ... kidusasebe2019@gmail.com
 
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itskidus02&layout=compact)](https://github.com/itskidus02/github-readme-stats&layout=compact)
-
-itskidus02/itskidus02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vim,appwrite,bash,cpp,css,dotnet,express,figma,firebase,git,html,java,js,mongodb,mysql,nextjs,nodejs,obsidian,postman,react,redux,sentry,tailwind,ts,vite" />
