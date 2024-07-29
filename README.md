@@ -11,3 +11,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=itskidus02&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
