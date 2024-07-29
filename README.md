@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=itskidus02&theme=dark)](https://git.io/streak-stats)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,vim,appwrite,bash,cpp,css,dotnet,express,figma,firebase,git,html,java,js,mongodb,mysql,nextjs,nodejs,obsidian,postman,react,redux,sentry,tailwind,ts,vite" />
   </a>
 </p>
