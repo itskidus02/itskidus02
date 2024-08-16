@@ -1,5 +1,6 @@
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;React+Developer)](https://git.io/typing-svg)
-
+</p>
 - 👋 Hello, I’m Kidus Asebe
 - 🌱 I’m currently learning Computer science
 - 📫 How to reach me ... kidusasebe2019@gmail.com
